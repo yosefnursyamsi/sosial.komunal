@@ -1,1 +1,1 @@
-# sosial.komunall
+# sosial.komunal
